@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Merlita Tepait!
  4th year Computer Engineering Student
+ 
  Welcome to my personal portfolio
  ---
  ## 🎓 About Me
  I am a 4th-year Computer Engineering student interested in technology, programming, and web development. 
- Welcome to my personal portfolio! 
  ---
  ## 💻 My Skills
  - **Programming:** Java & Python
