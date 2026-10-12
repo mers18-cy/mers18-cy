@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Merlita Tepait!
- > Student • Aspiring Web Developer
- [About Me](#about-me) • [Skills](#-my-skills) • [Projects](#-my-projects) • [Contact](#-get-in-touch)
+ 4th year Computer Engineering Student
+ Welcome to my personal portfolio
  ---
  ## 🎓 About Me
  I am a 4th-year Computer Engineering student interested in technology, programming, and web development. 
