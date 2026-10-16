@@ -1,3 +1,7 @@
+ 🌐 Live Interactive Portfolio
+
+[CLICK HERE TO VIEW MY FULL INTERACTIVE PORTFOLIO](https://mers18-cy.github.io)
+
 # 👋 Hello, I'm Merlita Tepait!
 
 🎓4th year Computer Engineering Student
