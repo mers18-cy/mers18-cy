@@ -1,4 +1,4 @@
-[![My Portfolio Preview](Screen Recording 2026-10-19 at 11.46.57 am.html)](https://mers18-cy.github.io)
+[![My Portfolio Preview](https://uploads.onecompiler.io/4568a7gjv/4568eumab/Screenshot%202026-10-16%20at%2012.13.54%C3%A2%C2%80%C2%AFpm.png)](https://mers18-cy.github.io)
 
 # 👋 Hello, I'm Merlita Tepait!
 
